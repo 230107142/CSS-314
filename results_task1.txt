@@ -1,0 +1,70 @@
+===== RUN 1 =====
+Starting parallel region with 4 threads...
+Thread ID: 0 of 4
+Thread ID: 3 of 4
+Thread ID: 1 of 4
+Thread ID: 2 of 4
+Parallel region finished. Back to master thread.
+===== RUN 2 =====
+Starting parallel region with 4 threads...
+Thread ID: 0 of 4
+Thread ID: 3 of 4
+Thread ID: 1 of 4
+Thread ID: 2 of 4
+Parallel region finished. Back to master thread.
+===== RUN 3 =====
+Starting parallel region with 4 threads...
+Thread ID: 0 of 4
+Thread ID: 3 of 4
+Thread ID: 1 of 4
+Thread ID: 2 of 4
+Parallel region finished. Back to master thread.
+===== RUN 4 =====
+Starting parallel region with 4 threads...
+Thread ID: 0 of 4
+Thread ID: 3 of 4
+Thread ID: 1 of 4
+Thread ID: 2 of 4
+Parallel region finished. Back to master thread.
+===== RUN 5 =====
+Starting parallel region with 4 threads...
+Thread ID: 0 of 4
+Thread ID: 3 of 4
+Thread ID: 1 of 4
+Thread ID: 2 of 4
+Parallel region finished. Back to master thread.
+===== RUN 6 =====
+Starting parallel region with 4 threads...
+Thread ID: 0 of 4
+Thread ID: 3 of 4
+Thread ID: 1 of 4
+Thread ID: 2 of 4
+Parallel region finished. Back to master thread.
+===== RUN 7 =====
+Starting parallel region with 4 threads...
+Thread ID: 0 of 4
+Thread ID: 3 of 4
+Thread ID: 1 of 4
+Thread ID: 2 of 4
+Parallel region finished. Back to master thread.
+===== RUN 8 =====
+Starting parallel region with 4 threads...
+Thread ID: 0 of 4
+Thread ID: 3 of 4
+Thread ID: 1 of 4
+Thread ID: 2 of 4
+Parallel region finished. Back to master thread.
+===== RUN 9 =====
+Starting parallel region with 4 threads...
+Thread ID: 0 of 4
+Thread ID: 3 of 4
+Thread ID: 1 of 4
+Thread ID: 2 of 4
+Parallel region finished. Back to master thread.
+===== RUN 10 =====
+Starting parallel region with 4 threads...
+Thread ID: 0 of 4
+Thread ID: 3 of 4
+Thread ID: 1 of 4
+Thread ID: 2 of 4
+Parallel region finished. Back to master thread.
